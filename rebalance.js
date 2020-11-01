@@ -19,7 +19,7 @@ const POOL_ADDRESS = ''
     
     } else {
 
-        pool = factory.loadPool(POOL_ADDRESS)
+        pool = await factory.loadPool(POOL_ADDRESS)
 
     }
 
