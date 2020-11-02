@@ -1,6 +1,6 @@
 # dHEDGE Bot SDK Example
 
-For longer version please refer to this Medium post.
+For longer version please refer to this [Medium](https://medium.com/dhedge-org/dhedge-bot-sdk-e825e6f469c8) post.
 
 For a quickstart stay here:
 
