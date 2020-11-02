@@ -4,7 +4,7 @@ For longer version please refer to this Medium post.
 
 For a quickstart stay here:
 
-Clone this repo and copy .env.example into .env and prefill the variables like mnemonic seed for the account and Web3 provider details:
+Clone this repo and copy `.env.example` into `.env` and prefill the variables like mnemonic seed for the account and Web3 provider details:
 
 ```
 MNEMONIC="magna volatile mice juggle ubiquitous nudist …"
