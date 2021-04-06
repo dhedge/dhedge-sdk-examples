@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "dhedge-sdk": "0.0.1"
+    "dhedge-sdk": "0.0.6"
   }
 }
